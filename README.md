@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthik_taraka" target="blank"><img src="https://img.shields.io/twitter/follow/karthik_taraka?logo=twitter&style=for-the-badge" alt="karthik_taraka" /></a> </p>
 
-- 🔭 I’m currently working on [Health Vision](https://github.com/karthikbolla/Health_Vision)
+- 🔭 I’m currently working on [Nest Seek](https://github.com/karthikbolla/NestSeek)
 
 - 🌱 I’m currently learning **DevOps**
 
