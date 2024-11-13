@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/karthik_taraka" target="blank"><img src="https://img.shields.io/twitter/follow/karthik_taraka?logo=twitter&style=for-the-badge" alt="karthik_taraka" /></a> </p>
 
-- 🔭 I’m currently working on [Nest Seek](https://github.com/karthikbolla/NestSeek)
+- 🔭 I’m currently working on [Content Moderation Tool](https://github.com/karthikbolla/Content-Moderation-Tool)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on [Health Vision](https://github.com/karthikbolla/Health_Vision)
+- 👯 I’m looking to collaborate on [Content Moderation Tool](https://github.com/karthikbolla/Content-Moderation-Tool)
 
 - 📝 I regularly write articles on [https://techcodetoday.hashnode.dev/](https://techcodetoday.hashnode.dev/)
 
 - 📫 How to reach me **karthikbolla123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v5Yjx7mR93XngXkE1QYhA1nVbiV913MF/view?usp=sharing](https://drive.google.com/file/d/1v5Yjx7mR93XngXkE1QYhA1nVbiV913MF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P5_DFcrXDiuv0E6ihQR-RYHWuH5j_H5K/view?usp=drive_link](https://drive.google.com/file/d/1P5_DFcrXDiuv0E6ihQR-RYHWuH5j_H5K/view?usp=drive_link)
 
 - ⚡ Fun fact **There are over 700 programming languages in use today**
 
